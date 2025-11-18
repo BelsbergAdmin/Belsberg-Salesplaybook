@@ -40,34 +40,27 @@ Via een **gestroomlijnde 6-fasen structuur** die binnen 30 minuten zowel volledi
 
 ### Fase 1 – Persoonlijke Opening & Agenda (3 minuten)
 
-Doel: Relatie opbouwen en verwachtingen schetsen.  
-(Referentie: E14–E15 Werkwijze uitleg kandidaat)
+Doel: Relatie opbouwen en verwachtingen schetsen.
 
 ### Fase 2 – Achtergrond & Competentie Assessment (8 minuten)
 
-Doel: Toets technische fit via **GASS – GETS**.  
-Gebruik open vragen om te achterhalen waar de kandidaat in uitblinkt.  
-(Referentie: E7–E10 SPIN Vraag Scripts)
+Doel: Toets technische fit via **GASS – GETS**.
 
 ### Fase 3 – Praktische Zaken & ACCEPTS Assessment (7 minuten)
 
-Doel: Motivatie, beschikbaarheid en commerciële parameters toetsen.  
-(Referentie: E14–E15 Werkwijze uitleg kandidaat)
+Doel: Motivatie, beschikbaarheid en commerciële parameters toetsen.
 
 ### Fase 4 – STARTS & STAYS Assessment + Marktkennis (7 minuten)
 
-Doel: Inzicht krijgen in marktbeeld, snelheid van inzetbaarheid en concurrentie.  
-(Referentie: E16–E21 Lead Chase Scripts)
+Doel: Inzicht krijgen in marktbeeld, snelheid van inzetbaarheid en concurrentie.
 
 ### Fase 5 – Belsberg Positionering & Samenwerking (3 minuten)
 
-Doel: Belsberg werkwijze kort toelichten.  
-(Referentie: E14–E15)
+Doel: Belsberg werkwijze kort toelichten.
 
 ### Fase 6 – Vervolgstappen & Commitment (2 minuten)
 
-Doel: Concrete vervolgstappen afspreken.  
-(Referentie: E37–E38 Closing Scripts / E49–E53 Risking Scripts)
+Doel: Concrete vervolgstappen afspreken.
 
 ---
 
@@ -79,24 +72,14 @@ Doel: Concrete vervolgstappen afspreken.
 - Leads en marktinzichten vastleggen.
 - Follow-up plannen binnen 24 uur.
 
-**Emailtemplates en follow-upvoorbeelden:**  
-Zie E37–E38 (Closing Scripts).
-
-**Riskingmoment tijdens prescreen:**  
-Zie E49–E53 (Risking Scripts).
-
 ---
 
 ## Extra: GASS Quick Reference
 
-Gebruik onderstaande categorieën als geheugensteun:
-
-- **GETS:** Competentie & fit.
-- **ACCEPTS:** Motivatie & commerciële parameters.
-- **STARTS:** Beschikbaarheid & concurrerende kansen.
-- **STAYS:** Commitment & ontwikkelingsfit.
-
-(Uitgewerkte voorbeeldvragen: E7–E10 SPIN Vraag Scripts)
+- **GETS:** Competentie & fit  
+- **ACCEPTS:** Motivatie & commerciële parameters  
+- **STARTS:** Beschikbaarheid & concurrerende kansen  
+- **STAYS:** Commitment & ontwikkelingsfit  
 
 ---
 
@@ -117,7 +100,7 @@ Gebruik onderstaande categorieën als geheugensteun:
 
 ### Na het gesprek
 
-- Riskingmoment verwerkt (zie E49–E53)
+- Riskingmoment verwerkt
 - GASS-scores in CRM vastgelegd
 - Follow-upmail binnen 24 uur
 - Leads verwerkt binnen 48 uur
