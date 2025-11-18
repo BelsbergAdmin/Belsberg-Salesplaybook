@@ -3,14 +3,14 @@
 <a id="hoofdstuk-4"></a>
 ## Wat, Waarom & Hoe
 
-**Wat zijn effectieve Gesprekstechnieken & Controle?** Het systematisch
+**Wat zijn effectieve gesprekstechnieken & controle?** Het systematisch
 toepassen van bewezen gespreksstructuren die ervoor zorgen dat elk
-gesprek waarde oplevert en dat jij als consultant de regie houdt over
+gesprek waarde oplevert en dat jij als Consultant de regie houdt over
 het proces. Het gaat om het strategisch sturen van conversaties naar
 concrete resultaten, waarbij je door slimme vraagstelling en actieve
 sturing voorkomt dat het initiatief bij de ander komt te liggen.
 
-**Waarom zijn gestructureerde Gesprekstechnieken essentieel voor
+**Waarom zijn gestructureerde gesprekstechnieken essentieel voor
 succes?**
 
 - Resultaatgerichtheid: Elk gesprek levert minimaal 1 tastbaar resultaat
@@ -57,11 +57,11 @@ warme leads: Maximaliseren, meerdere outputs halen
 
 ## 2. Uitvoering
 
-**STAP 1: Gespreksstructuur Bepalen (Opening)**
+**STAP 1: Gespreksstructuur bepalen (opening)**
 
-De Cruciale Keuze: Open vs Check Vragen
+De cruciale keuze: open vs check vragen
 
-Open Vragen Opening (BESTE OPTIE - 80% van gevallen): Definitie: Start
+Open vragen opening (BESTE OPTIE - 80% van gevallen): Definitie: start
 direct met waarde en relevantie
 
 Waarom superieur: ● Geeft controle: Jij begint met relevante content ●
@@ -69,20 +69,20 @@ Toont expertise: Je weet wat je doet ● Creëert interesse: Concrete
 waarde in opening ● Voorkomt afwijzing: Als het niet past krijg je
 vanzelf een objection
 
-Voorbeelden Open Openings: ● "Hoe klinkt dit profiel voor je?"
+Voorbeelden open openings: ● "Hoe klinkt dit profiel voor je?"
 \[beschrijf kort kandidaat\] ● "Wat zoek je momenteel binnen
 \[domein\]?" ● "Hoe zou dit profiel binnen jullie team kunnen passen?" ●
 "Ik heb een interessante \[functie\] kandidaat met \[USP\]. Past dat in
 jullie planning?"
 
-**STAP 2: ASQ-Methode voor Bezwaarhantering (3 fasen)**
+**STAP 2: ASQ-methode voor bezwaarhantering (3 fasen)**
 
 Het ASQ Framework: Acknowledge → Statement → Question
 
 Waarom ASQ werkt: ● Erkent de ander (geen weerstand) ● Toont expertise
 (vertrouwen opbouwen) ● Opent nieuwe perspectieven (verder gesprek)
 
-**A - ACKNOWLEDGE (Erken)** Doel: Valideer wat de ander zegt of voelt
+**A - ACKNOWLEDGE (erken)** Doel: Valideer wat de ander zegt of voelt
 
 Formules: ● "Snap ik helemaal, hoor ik vaker." ● "Begrijpelijk dat dat
 nu niet jullie prioriteit is." ● "Dat is logisch bij een bedrijf van
@@ -91,18 +91,18 @@ jullie omvang." ● "Herkenbaar - veel klanten beginnen daar ook mee."
 Waarom essentieel: ● Voorkomt defensieve houding bij de ander ● Laat
 zien dat je luistert en begrijpt ● Bouwt rapport en vertrouwen op
 
-**S - STATEMENT (Deel krachtige boodschap)** Doel: Toon jouw unieke
+**S - STATEMENT (deel krachtige boodschap)** Doel: Toon jouw unieke
 waarde in één zin
 
 Formules: ● "Ik werk met de beste freelancers binnen jullie domein." ●
 "Wij leveren binnen 48 uur passende profielen." ● "Bij veel klanten zijn
-we ook ooit niet op de PSL begonnen." ● "Wij focussen 100% op HR/HRIT -
+we ook ooit niet op de PSL begonnen." ● "Wij focussen 100% op HR/HRIT of Finance IT -
 dat is ons specialisme."
 
 Waarom krachtig: ● Positioneert jouw toegevoegde waarde ● Geeft reden om
 verder te praten ● Differentieert van concurrenten
 
-**Q - QUESTION (Stel open vervolgvraag)** Doel: Trek gesprek verder en
+**Q - QUESTION (stel open vervolgvraag)** Doel: trek gesprek verder en
 houd controle
 
 Formules: ● "Wat zou er moeten veranderen om dit wél interessant te
@@ -113,7 +113,7 @@ doen om als benchmark naast jullie vaste partners te lopen?"
 Waarom cruciaal: ● Voorkomt doodlopend gesprek ● Geeft informatie over
 échte situatie ● Creëert vervolgkans
 
-**Veelvoorkomende Bezwaren & ASQ Responses:**
+**Veelvoorkomende Bezwaren & ASQ responses:**
 
 |  |  |  |
 |:--:|:--:|:--:|
@@ -135,20 +135,20 @@ BELANGRIJK:
 Situatie: "We hebben al partners" / "We hebben al CV's" / "We zijn al in
 procedure"
 
-- 🎯 Doel: Informatie winnen, positie behouden, inzicht krijgen in échte
+- 🎯 Doel: informatie winnen, positie behouden, inzicht krijgen in échte
 
 behoefte
 
-**De 3 Gouden Vragen:**
+**De 3 Gouden vragen:**
 
-1.  "Waar kan ik nog het verschil maken?" → Onthult: Wat missen ze nog
+1.  "Waar kan ik nog het verschil maken?" → Onthult: wat missen ze nog
     in huidige kandidaten/proces
 
 2.  "Met welke ervaring op een cv zou je wél enthousiast worden?" →
-    Onthult: Wat hun échte must-haves zijn die nu ontbreken
+    Onthult: wat hun échte must-haves zijn die nu ontbreken
 
 3.  "Wat mis je nog in het profiel dat je zou willen zien?" → Onthult:
-    Concrete gap tussen wat ze hebben en wat ze willen
+    concrete gap tussen wat ze hebben en wat ze willen
 
 Waarom deze vragen werken: ● Geeft insider informatie over concurrentie
 ● Laat zien waar jij waarde kunt toevoegen ● Positioneert je als
@@ -160,9 +160,9 @@ waarop jullie nog twijfelen?" ● "Als de huidige kandidaten niet
 doorgaan, wat is dan jullie plan B?" ● "Welke timeline hanteren jullie
 voor een definitieve beslissing?"
 
-**STAP 4: Controle Houden in Gesprekken**
+**STAP 4: Controle houden in gesprekken**
 
-**Het Probleem: Initiatief Verschuiving**
+**Het Probleem: initiatief verschuiving**
 
 Gevaarlijke zinnen die controle weggeven: ❌ "Stuur maar even een
 mailtje." ❌ "Ik stuur jou wel wat." ❌ "Laat maar iets van je horen."
@@ -172,29 +172,29 @@ mailtje." ❌ "Ik stuur jou wel wat." ❌ "Laat maar iets van je horen."
 Wat er gebeurt: Initiatief verschuift van jou → naar hen = meestal GEEN
 vervolg
 
-Waarom dit gebeurt: ● Te makkelijk om af te komen van jou ● Geen
+Waarom dit gebeurt: ● Makkelijk om van jou af te komen ● Geen
 commitment van hun kant ● Jij wordt afhankelijk van hun actie ● Momentum
 verdwijnt volledig
 
-**De Oplossing: Tijd-Besparende Insteek**
+**De oplossing: tijd-besparende insteek**
 
 Kernprincipe: Positioneer bellen als SERVICE i.p.v. verkoopactie
 
 - 🥇 BESTE Reacties (tijd-besparing angle):
 
-"Laat ik je tijd besparen — ik bel even, met wie kan ik het beste
-contact opnemen?" → Waarom: Je helpt hen, je neemt werk uit handen
+"Laat ik je tijd besparen — ik bel wel even, met wie kan ik het beste
+contact opnemen?" → Waarom: je helpt hen, je neemt werk uit handen
 
 "Wie kan ik hierover het beste bellen? Dat scheelt jou weer tijd om m'n
-mail door te sturen." → Waarom: Efficiëntie voor hen, jij krijgt direct
+mail door te sturen." → Waarom: efficiëntie voor hen, jij krijgt direct
 contact
 
-"Snap ik, maar ik kan je beter even bellen — dan hoef jij de mail niet
-door te lezen en door te zetten." → Waarom: Minder werk voor hen,
+"Snap ik, ik kan je beter even bellen — dan hoef jij de mail niet
+door te lezen en door te zetten." → Waarom: minder werk voor hen,
 snellere oplossing
 
 "Ik stuur het graag even kort per mail, maar laat ik daarna even bellen,
-dan weet je direct of het relevant is." → Waarom: Combineert hun wens
+dan weet je direct of het relevant is." → Waarom: combineert hun wens
 (mail) met jouw doel (bellen)
 
 **Situatie-Specifieke Responses:**

@@ -63,10 +63,10 @@ Kies de juiste opening op basis van hoe je de kandidaat hebt gevonden:
 **Stap 2: Pitch (90 seconden)** *Doel: Positionering en
 waardepropositie*
 
-**Core Pitch:** "Belsberg is dé specialist voor freelance HR en HRIT
+**Core Pitch:** "Belsberg is dé specialist voor freelance HR en HRIT of Finance IT
 professionals. We werken met 200+ consultants en focussen 100% op deze
 niche. Wat ons uniek maakt is dat we direct contact hebben met hiring
-managers en vaak exclusieve toegang krijgen tot interessante
+managers en vaak exclusieve toegang of voorsprong krijgen tot interessante
 opdrachten."
 
 **USP Selectie op basis van profiel:**
@@ -102,9 +102,7 @@ Voor verdiepende vraagstelling en gesprekscontrole, zie Hoofdstuk 4.
 
 **Stap 4: Vervolg (30 seconden)** *Doel: Concrete next step plannen*
 
-**Bij positieve respons:** "Super! Ik zou je graag beter leren kennen
-voor als er interessante opdrachten langskomen. Kunnen we een kwartier
-inplannen deze week? Wat past jou beter: \[optie 1\] of \[optie 2\]?"
+**Bij positieve respons:** "Super! Je ervaring en wensen sluiten goed aan bij de opdrachten binnen ons netwerk. Heb je nu nog een kwartiertje  / later deze week / kunnen we wat inplannen? Als inplannen, doe voorstel; wat past jou beter: \[optie 1\] of \[optie 2\]?"
 
 **Directe agenda controle:**
 

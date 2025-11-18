@@ -10,7 +10,7 @@ Het transparant uitleggen van hoe Belsberg werkt, wat onze toegevoegde waarde is
 - **Vertrouwen opbouwen:** Transparantie over jouw werkwijze creëert vertrouwen in jouw professionaliteit.  
 - **Verwachtingen managen:** Voorkomt frustraties en misverstanden.  
 - **Commitment verhogen:** Duidelijke afspraken versnellen het proces én verhogen de slagingskans.  
-- **Onderscheiding:** De meeste bureaus communiceren slecht over proces — jij wel.  
+- **Onderscheiding:** Walk the talk.   
 - **Professionaliteit:** Eigenaarschap over het proces onderscheidt je als strategisch partner.
 
 **Hoe communiceer je werkwijze & commitment effectief?**  
@@ -63,9 +63,9 @@ Door vanaf het eerste contact transparant uit te leggen wat er gaat gebeuren, wa
 >  
 > **Aantal kandidaten:** Afhankelijk van de rol zal ik **maximaal 1 tot 3 kandidaten** voorstellen. Zo houden we het overzichtelijk en focussen we op kwaliteit boven kwantiteit.  
 >  
-> **Planning:** Om het proces soepel te laten verlopen stel ik voor om **direct 2 tijdslots in jullie agenda te reserveren**. Dan kunnen kandidaten daar alvast rekening mee houden.  
->  
 > **Feedbackafspraak:** Tevens zou ik graag een **moment inplannen** om de **voorgestelde cv’s** te bespreken. Eerder feedback mag altijd natuurlijk.  
+> 
+> **Planning:** Om het proces soepel te laten verlopen stel ik voor om **direct 2 tijdslots in jullie agenda te reserveren**. Dan kunnen kandidaten daar alvast rekening mee houden.   
 >  
 > **Mijn investering:** Ik werk **no cure, no pay**. Het hele proces tot aan de plaatsing investeer ik mijn tijd, zonder garantie op resultaat. Ik doe dat graag — mits we het proces strak en efficiënt houden, samen.  
 >  
@@ -122,7 +122,7 @@ Plan feedbackmomenten direct in.
 
 **Voorbeeld bij kandidaat:**
 
-> "Ik bel je **morgen tussen 14:00 en 15:00** zodra ik feedback van de klant heb ontvangen. Houd je telefoon in de buurt!"
+> "Ik ga je **vandaag** voorstellen bij de klant. **morgen om 14u** spreek ik de ze. Ik bel je **daarna tussen 14:00 en 15:00**. Ben je dan bereikbaar?"
 
 **Focus op voordelen voor de ander:**
 
