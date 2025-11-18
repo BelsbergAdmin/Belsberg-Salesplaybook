@@ -1,6 +1,6 @@
-# **Hoofdstuk 2: Prescreen & Kandidaat Kwalificatie**
+# Hoofdstuk 2: Prescreen & Kandidaat Kwalificatie
 
-## **Wat, Waarom & Hoe**
+## Wat, Waarom & Hoe
 
 Een **prescreen & kandidaat kwalificatie** is een gestructureerd gesprek van 20–30 minuten met een freelance professional waarin je zowel de kandidaat leert kennen voor toekomstige kansen als direct kwalificeert voor specifieke opdrachten. Dit geïntegreerde proces combineert kennismaking met doelgerichte screening via het **GASS-framework** voor snelle freelance plaatsingen.
 
@@ -18,76 +18,76 @@ Via een **gestroomlijnde 6-fasen structuur** die binnen 30 minuten zowel volledi
 
 ---
 
-## **1. Voorbereiding**
+## 1. Voorbereiding
 
-**Pre-Call Setup (5 minuten totaal)**
+### Pre-Call Setup (5 minuten)
 
-- **Profielonderzoek:** LinkedIn-profiel bekijken, 1 specifiek detail noteren voor persoonlijke opening.
-- **Achtergrondanalyse:** Laatste 2 opdrachten/banen en specialisatie in kaart brengen.
-- **Match-check:** Openstaande vacatures nalopen op directe kwalificatiemogelijkheden.
-- **Netwerkoverlap:** Gemeenschappelijke connecties identificeren.
+- LinkedIn-profiel bekijken en één detail noteren voor persoonlijke opening.
+- Laatste twee opdrachten/banen en specialisatie in kaart brengen.
+- Openstaande vacatures nalopen op directe match.
+- Gemeenschappelijke connecties identificeren.
 
-**GASS-voorbereiding (2 minuten)**
-- **G – GETS:** Technische competenties, ervaringsniveau, culturele fit.
-- **A – ACCEPTS:** Motivatie, commerciële parameters, timing fit.
-- **S – STARTS:** Concurrentie, beschikbaarheid, toewijding.
-- **S – STAYS:** Verwachting projectduur, ontwikkelpotentieel, betrokkenheid.
+### GASS-voorbereiding (2 minuten)
+
+- **GETS:** Technische competenties, ervaringsniveau, culturele fit.
+- **ACCEPTS:** Motivatie, commerciële parameters, timing-fit.
+- **STARTS:** Concurrentie, beschikbaarheid, toewijding.
+- **STAYS:** Verwachting projectduur, ontwikkelpotentieel, betrokkenheid.
 
 ---
 
-## **2. Uitvoering – 6 Geïntegreerde Fasen**
+## 2. Uitvoering – 6 Geïntegreerde Fasen
 
-### **Fase 1 – Persoonlijke Opening & Agenda (3 minuten)**
+### Fase 1 – Persoonlijke Opening & Agenda (3 minuten)
 
 Doel: Relatie opbouwen en verwachtingen schetsen.  
-Voor voorbeeldscripts, zie **E14–E15** (Werkwijze uitleg kandidaat).
+(Referentie: E14–E15 Werkwijze uitleg kandidaat)
 
-### **Fase 2 – Achtergrond & Competentie Assessment (8 minuten)**
+### Fase 2 – Achtergrond & Competentie Assessment (8 minuten)
 
 Doel: Toets technische fit via **GASS – GETS**.  
-Gebruik open vragen om te achterhalen waar de kandidaat in uitblinkt, wat hij/zij het liefst doet en welke ervaringen relevant zijn.  
-Voor voorbeeldvragen, zie **E7–E10 (SPIN Vraag Scripts)**.
+Gebruik open vragen om te achterhalen waar de kandidaat in uitblinkt.  
+(Referentie: E7–E10 SPIN Vraag Scripts)
 
-### **Fase 3 – Praktische Zaken & ACCEPTS Assessment (7 minuten)**
+### Fase 3 – Praktische Zaken & ACCEPTS Assessment (7 minuten)
 
-Doel: Toets motivatie, beschikbaarheid en commerciële parameters.  
-Voor voorbeeldzinnen en tariefvragen, zie **E14–E15 (Werkwijze uitleg kandidaat)**.
+Doel: Motivatie, beschikbaarheid en commerciële parameters toetsen.  
+(Referentie: E14–E15 Werkwijze uitleg kandidaat)
 
-### **Fase 4 – STARTS & STAYS Assessment + Marktkennis (7 minuten)**
+### Fase 4 – STARTS & STAYS Assessment + Marktkennis (7 minuten)
 
-Doel: Begrijpen hoe de kandidaat naar de markt kijkt en hoe snel hij/zij inzetbaar is.  
-Gebruik GASS-onderdelen STARTS/STAYS als leidraad.  
-Voor leadgeneratie en marktvraagtechnieken, zie **E16–E21 (Lead Chase Scripts)**.
+Doel: Inzicht krijgen in marktbeeld, snelheid van inzetbaarheid en concurrentie.  
+(Referentie: E16–E21 Lead Chase Scripts)
 
-### **Fase 5 – Belsberg Positionering & Samenwerking (3 minuten)**
+### Fase 5 – Belsberg Positionering & Samenwerking (3 minuten)
 
-Doel: Kort toelichten van de werkwijze en positionering van Belsberg.  
-Gebruik hiervoor de korte werkwijze-uitleg uit **E14–E15**.
+Doel: Belsberg werkwijze kort toelichten.  
+(Referentie: E14–E15)
 
-### **Fase 6 – Vervolgstappen & Commitment (2 minuten)**
+### Fase 6 – Vervolgstappen & Commitment (2 minuten)
 
-Doel: Duidelijke afspraken maken over vervolgstappen.  
-Voor closing en follow-up, zie **E37–E38 (Closing Scripts)** en **E49–E53 (Risking Scripts)**.
+Doel: Concrete vervolgstappen afspreken.  
+(Referentie: E37–E38 Closing Scripts / E49–E53 Risking Scripts)
 
 ---
 
-## **3. Opvolging**
+## 3. Opvolging
 
-**Na het gesprek (binnen 15 minuten):**
+### Na het gesprek (binnen 15 minuten)
 
-- Vul GASS-scores in (GETS, ACCEPTS, STARTS, STAYS) en documenteer ze in Bullhorn.
-- Noteer leads, marktinzichten en vervolgstappen.
-- Plan follow-up binnen 24 uur voor gekwalificeerde kandidaten.
+- GASS-scores invullen (GETS, ACCEPTS, STARTS, STAYS) in Bullhorn.
+- Leads en marktinzichten vastleggen.
+- Follow-up plannen binnen 24 uur.
 
 **Emailtemplates en follow-upvoorbeelden:**  
-Zie **E37–E38 (Closing Scripts)**.
+Zie E37–E38 (Closing Scripts).
 
 **Riskingmoment tijdens prescreen:**  
-Zie **E49–E53 (Risking Scripts)**.
+Zie E49–E53 (Risking Scripts).
 
 ---
 
-## **Extra: GASS Vragen (Quick Reference)**
+## Extra: GASS Quick Reference
 
 Gebruik onderstaande categorieën als geheugensteun:
 
@@ -96,25 +96,28 @@ Gebruik onderstaande categorieën als geheugensteun:
 - **STARTS:** Beschikbaarheid & concurrerende kansen.
 - **STAYS:** Commitment & ontwikkelingsfit.
 
-Voor uitgewerkte voorbeeldvragen, zie **E7–E10 (SPIN Vraag Scripts)**.
+(Uitgewerkte voorbeeldvragen: E7–E10 SPIN Vraag Scripts)
 
 ---
 
-## **Quick Reference Checklist**
+## Quick Reference Checklist
 
-**Voor het gesprek:**
-- ✅ Profiel gecheckt en GASS voorbereid
-- ✅ LinkedIn-detail genoteerd
-- ✅ Vacatures gecontroleerd op match
+### Voor het gesprek
 
-**Tijdens het gesprek:**
-- ✅ Duidelijke agenda (30 min, 6 fasen)
-- ✅ GASS toegepast
-- ✅ Minimaal 2 leads of marktinzichten verzameld
-- ✅ Concrete vervolgstappen afgesproken
+- Profiel gecheckt en GASS voorbereid  
+- LinkedIn-detail genoteerd  
+- Vacatures gecontroleerd op match  
 
-**Na het gesprek:**
-- 🚨 Riskingmoment verwerkt – zie **E49–E53**
-- ✅ GASS-scores in CRM vastgelegd
-- ✅ Follow-upmail binnen 24 uur
-- ✅ Leads verwerkt binnen 48 uur
+### Tijdens het gesprek
+
+- Heldere agenda (30 minuten, 6 fasen)
+- GASS toegepast
+- Minimaal 2 leads of marktinzichten verzameld
+- Concrete vervolgstappen afgesproken
+
+### Na het gesprek
+
+- Riskingmoment verwerkt (zie E49–E53)
+- GASS-scores in CRM vastgelegd
+- Follow-upmail binnen 24 uur
+- Leads verwerkt binnen 48 uur
