@@ -23,11 +23,13 @@ Door vanaf het eerste contact jouw werkwijze uit te leggen, waarom je het zo doe
 ### Wanneer leg je je werkwijze uit?
 
 **Bij klanten**
+
 - Bij intake of start van een nieuwe vacature  
 - Bij nieuwe relaties vanaf het eerste contactmoment  
 - Bij terugkerende klanten als refresh bij nieuwe opdrachten  
 
 **Bij kandidaten**
+
 - Tijdens het prescreen gesprek  
 - Bij presentatie van een opdracht  
 - Voor elk interview (verwachtingen + timing)
@@ -35,12 +37,14 @@ Door vanaf het eerste contact jouw werkwijze uit te leggen, waarom je het zo doe
 ### Wat moet je voorbereiden?
 
 **Voor klantgesprekken**
+
 - Urgentie en context van de vacature  
 - Hoeveel tijd je kunt investeren in sourcing (standaard 2 dagen)  
 - Jouw agenda voor kandidaatgesprekken  
 - Hoeveel kandidaten je maximaal gaat voorstellen (1–3)  
 
 **Voor kandidaatgesprekken**
+
 - In welke fase zit de kandidaat?  
 - Wat weet de kandidaat al van Belsberg?  
 - Zijn er eerdere miscommunicaties?
@@ -99,10 +103,10 @@ Klanten zeggen “ja”, maar reageren traag als er géén tijdstip wordt afgesp
 Altijd direct een concreet feedbackmoment plannen.
 
 **Voorbeeld klant**  
-"Ik stuur profielen vandaag en morgen. Wat als we **woensdag 10:00** bellen om de vervolgstappen te bepalen?"
+"Ik stuur kandidaten vandaag en morgen. Ik zou willen voorstellen om **woensdag 10:00** te bellen om de vervolgstappen te bepalen?" Dan houden we de snelheid erin / momentum.
 
 **Voorbeeld kandidaat**  
-"Ik stel je vandaag voor en spreek de klant morgen om 14:00. Ik bel jou **tussen 14:00–15:00**. Ben je bereikbaar?"
+"Ik stel je vandaag voor en spreek de klant morgen om 10:00. Ik bel jou **tussen 11:00–12:00**. Ben je bereikbaar?"
 
 ### Focus op voordelen voor de ander
 - Niet: “Ik wil graag snel feedback”  
@@ -126,6 +130,7 @@ Altijd direct een concreet feedbackmoment plannen.
 ### Afspraken Nakomen
 
 **Wekelijkse zelfcheck**
+
 - Haal ik mijn reactietijden?  
 - Heb ik alle feedbackcalls gedaan zoals afgesproken?  
 - Heeft iemand te lang niets gehoord?

@@ -33,7 +33,7 @@ waarde toont en eindigt met een concrete vervolgafspraak.
 - LinkedIn profiel bekeken: 1 specifiek detail genoteerd voor
   persoonlijke opening
 
-- CV/achtergrond: specialisatie en laatste 2 opdrachten/banen
+- CV/achtergrond: specialisatie, laatste 2 opdrachten/banen en notes Bullhorn
 
 - Mogelijke matches: check openstaande vacatures voor quick wins
 
@@ -71,14 +71,11 @@ opdrachten."
 
 **USP Selectie op basis van profiel:**
 
-- *Ervaren professionals:* "We werken met senior managers die waarde
-  erkennen"
+- *ERP systeem:* "Ik focus mij specifiek op Workday, SuccessFactors of vergelijkbare ERP-platformen. Hierdoor weet jij zeker dat de opdrachten die wij voorstellen goed aansluiten op jouw ervaring."
 
-- *Technische specialisten:* "Directe toegang tot implementatie- en
-  transformatieprojecten"
+- *Industry:* "Jouw ervaring bij of in indusrry X sluit goed aan bij ons klantportfolio"
 
-- *Interim managers:* "Strategische opdrachten bij organisaties in
-  verandering"
+- *Specialisme:* "Jouw werkervaring of specialisme is precies wat onze klanten zoeken en waar wij ons in specialiseren"
 
 **Stap 3: Vragen (60 seconden)** *Doel: Relevantie en interesse checken*
 
@@ -117,9 +114,9 @@ bezwaren. Zie Hoofdstuk 4 voor de complete ASQ-methode.
 
 **Direct na de Call (binnen 5 minuten):**
 
-- Prescreen afspraak in agenda + reminder 24u van tevoren
+- Prescreen afspraak in agenda 
 
-- Bullhorn: nieuwe contactpersoon aangemaakt met alle details
+- Bullhorn: nieuwe contactpersoon aangemaakt met alle details + notes en codering
 
 - Follow-up mail: bevestiging afspraak + wat we gaan bespreken (zie
   **Addendum D, Template D1**)

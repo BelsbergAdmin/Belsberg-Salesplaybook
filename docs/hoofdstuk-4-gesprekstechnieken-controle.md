@@ -38,7 +38,7 @@ Elk gesprek moet minimaal één van deze vier outputs opleveren:
 
 #### Gespreksstrategie kiezen
 
-- **Nieuwe contacten:** Focus op relatie + één concrete vervolgstap
+- **Nieuwe contacten binnen bestaande relatie:** Focus op relatie + één concrete vervolgstap
 - **Bestaande relaties:** Direct naar doel, efficiënt
 - **Cold calls:** Snelle waarde tonen + interesse peilen
 - **Warme leads:** Maximaliseren – meerdere outputs halen
